@@ -1,0 +1,2 @@
+.dropdown{display:inline-block;position:relative}.dropdown-button{background-color:#dbcccc;border:none;border-radius:5px;cursor:pointer;font-size:16px;padding:10px;width:400px}.dropdown-content{background-color:#f9f9f9;box-shadow:0 8px 16px 0 rgba(0,0,0,.2);display:none;min-width:200px;padding:10px;position:absolute;width:400px;z-index:1}.dropdown:hover .dropdown-content{display:block}.dropdown-content>div{cursor:pointer;padding:5px}.dropdown-content>div:hover{background-color:#ddd}
+/*# sourceMappingURL=main.f66b56e3.css.map*/
