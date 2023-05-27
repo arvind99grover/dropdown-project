@@ -1,3 +1,15 @@
+
+# Dropdown Project
+This project implements a simple dropdown component using React. The dropdown component allows users to select an option from a list of items.
+
+## Features
+On hovering over the dropdown button, the dropdown list is displayed.
+The dropdown component receives an array of items as a prop, which is used to populate the dropdown list.
+When a user clicks on an option in the dropdown list, the dropdown closes.
+The dropdown component is built using React and utilizes React's state management to handle dropdown visibility and selected item.
+
+## Hosted Link :- https://arvind99grover.github.io/dropdown-project/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
